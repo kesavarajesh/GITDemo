@@ -9,4 +9,7 @@ public class TestBase {
 	public void setLogin() {
 		
 	}
+	
+	public void setRegistration(){
+	}
 }
