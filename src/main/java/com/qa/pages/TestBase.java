@@ -6,5 +6,7 @@ public class TestBase {
 		System.out.println("Base page");
 	}
 	
-	
+	public void setLogin() {
+		
+	}
 }
