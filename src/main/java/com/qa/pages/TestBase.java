@@ -12,4 +12,8 @@ public class TestBase {
 	
 	public void setRegistration(){
 	}
+	
+	public void setAuthor() {
+		
+	}
 }
